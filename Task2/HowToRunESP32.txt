@@ -1,0 +1,25 @@
+first, you have to install Arduino IDE.
+
+then buy ESP32 chip.
+
+Steps:
+1.plug in ESP32 chip to your computer.
+
+2.Open Arduino IDE.
+
+3.Go to File > Prefrences.
+
+4.Inside Additional Boards managers URLs paste this link: https://dl.espressif.com/dl/package_esp32_index.json.
+
+5.Go to Tools > board: 'arduino uno' > Boards maneger.
+
+6.Search ESP32 then click install.
+
+7.After installing, you have to test the chip by running a simple code on it, from File > examples > basics > Blink.
+
+8.Choose the port from Tools > Port > COM6.
+
+9.Run the code from the right head arrow.
+
+
+congrats!! your chip are running currectly
