@@ -7,5 +7,5 @@ This repository contains all of my projects for summer training in Smart Methods
 2. [Task2: Writing a wisdom ESP32 operating algorithm](#Task2)
 <br>The steps of operating ESP32 chip in Arduino.
 
-3. Task3: Integer To DataBase
+3. [Task3: Integer To DataBase] (#Task3)
 <br>This is a web page to store sensor values into a database and the data is requested using GET method.
