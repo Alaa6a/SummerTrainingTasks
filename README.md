@@ -10,6 +10,7 @@ This repository contains all of my projects for summer training in Smart Methods
 3. [Task3: Integer To DataBase](#Task3)
 <br>This is a web page to store sensor values into a database and the data is requested using GET method.
 
+steps:
 <br> create database on php myadmin
 
 ![image](https://user-images.githubusercontent.com/73361811/183733885-c08be929-5564-4b0c-85e0-29f354637fdc.png)
